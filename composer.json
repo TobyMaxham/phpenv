@@ -1,0 +1,19 @@
+{
+    "name": "tobymaxham/phpenv",
+    "description": "Just a helper for phpdotenv",
+    "type": "library",
+    "require": {
+        "vlucas/phpdotenv": "v2.4.*"
+    },
+    "autoload": {
+        "files": "src/helper.php"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobias Maxham",
+            "email": "git2017@maxham.de"
+        }
+    ],
+    "minimum-stability": "stable"
+}
