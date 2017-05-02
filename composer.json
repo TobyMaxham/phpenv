@@ -6,7 +6,9 @@
         "vlucas/phpdotenv": "v2.4.*"
     },
     "autoload": {
-        "files": "src/helper.php"
+        "files": [
+            "src/helper.php"
+        ]
     },
     "license": "MIT",
     "authors": [
